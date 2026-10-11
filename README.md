@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33305988/README.md)
 <div align="center">
 
 # 🐾 Pawstack
